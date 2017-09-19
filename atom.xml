@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-09-17T11:48:00.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://miaoxuefei.github.io/"/>
+  <updated>2017-09-19T12:50:06.000Z</updated>
+  <id>http://miaoxuefei.github.io/</id>
   
   <author>
     <name>苗雪飞</name>
@@ -17,9 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>1368个单词就够了</title>
+    <link href="http://miaoxuefei.github.io/2017/09/19/1368/"/>
+    <id>http://miaoxuefei.github.io/2017/09/19/1368/</id>
+    <published>2017-09-18T16:00:00.000Z</published>
+    <updated>2017-09-19T12:50:06.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;名词&quot;&gt;&lt;a href=&quot;#名词&quot; class=&quot;headerlink&quot; title=&quot;名词&quot;&gt;&lt;/a&gt;名词&lt;/h1&gt;&lt;h2 id=&quot;有关物的名词-355个&quot;&gt;&lt;a href=&quot;#有关物的名词-355个&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/17/hello-world/"/>
-    <id>http://yoursite.com/2017/09/17/hello-world/</id>
+    <link href="http://miaoxuefei.github.io/2017/09/17/hello-world/"/>
+    <id>http://miaoxuefei.github.io/2017/09/17/hello-world/</id>
     <published>2017-09-17T11:48:00.000Z</published>
     <updated>2017-09-17T11:48:00.000Z</updated>
     
