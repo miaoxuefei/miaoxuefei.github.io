@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://miaoxuefei.github.io/"/>
-  <updated>2017-09-24T18:00:13.000Z</updated>
+  <updated>2017-09-24T18:05:41.000Z</updated>
   <id>http://miaoxuefei.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ios 11 calculator</title>
+    <title>JS 编写简易计算器</title>
     <link href="http://miaoxuefei.github.io/2017/09/24/ios11%20calculator/"/>
     <id>http://miaoxuefei.github.io/2017/09/24/ios11 calculator/</id>
     <published>2017-09-24T15:48:19.000Z</published>
-    <updated>2017-09-24T18:00:13.000Z</updated>
+    <updated>2017-09-24T18:05:41.000Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;h1 id=&quot;目标：&quot;&gt;&lt;a href=&quot;#目标：&quot; class=&quot;headerlink&quot; title=&quot;目标：&quot;&gt;&lt;/a&gt;目标：&lt;/h1&gt;&lt;p&gt;利用 &lt;em&gt;javascript&lt;/em&gt; 设计一个简单js 简易计算器（iOS 11上的计算器）&lt;/p&gt;
-&lt;h1
+          &lt;h1 id=&quot;目标：-Build-a-JavaScript-Calculator-Incomplete&quot;&gt;&lt;a href=&quot;#目标：-Build-a-JavaScript-Calculator-Incomplete&quot; class=&quot;headerlink&quot; title=&quot;目标：
         
       
     
